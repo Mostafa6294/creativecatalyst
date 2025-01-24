@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative Catalyst</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Creative Catalyst</div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="hero">
+        <h1>Welcome to Creative Catalyst</h1>
+        <p>Your go-to place for graphic designs, website designs, and logo designs</p>
+        <a href="#" class="cta">Discover Our Designs</a>
+    </section>
+    <section class="services-overview">
+        <h2>Our Services</h2>
+        <div class="service">
+            <h3>Graphic Design</h3>
+            <p>Create visually stunning graphics that captivate your audience.</p>
+        </div>
+        <div class="service">
+            <h3>Website Design</h4>
+            <p>Designing user-friendly and aesthetically pleasing websites.</p>
+        </div>
+        <div class="service">
+            <h4>Logo Design</h3>
+            <p>Crafting memorable logos that represent your brand identity.</p>
+        </div>
+    </section>
+    <section class="featured-work">
+        <h2>Featured Work</h2>
+        <!-- Add your work examples here -->
+    </section>
+    <section class="testimonials">
+        <h2>What Our Clients Say</h2>
+        <!-- Add testimonials here -->
+    </section>
+    <footer>
+        <p>&copy; 2025 Creative Catalyst. All rights reserved.</p>
+        <p>Contact us: info@creativecatalyst.com | +91-123-456-7890</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative Catalyst</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Creative Catalyst</div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="hero">
+        <h1>Welcome to Creative Catalyst</h1>
+        <p>Your go-to place for graphic designs, website designs, and logo designs</p>
+        <a href="#" class="cta">Discover Our Designs</a>
+    </section>
+    <section class="services-overview">
+        <h2>Our Services</h2>
+        <div class="service">
+            <h3>Graphic Design</h3>
+            <p>Create visually stunning graphics that captivate your audience.</p>
+        </div>
+        <div class="service">
+            <h3>Website Design</h4>
+            <p>Designing user-friendly and aesthetically pleasing websites.</p>
+        </div>
+        <div class="service">
+            <h4>Logo Design</h3>
+            <p>Crafting memorable logos that represent your brand identity.</p>
+        </div>
+    </section>
+    <section class="featured-work">
+        <h2>Featured Work</h2>
+        <!-- Add your work examples here -->
+    </section>
+    <section class="testimonials">
+        <h2>What Our Clients Say</h2>
+        <!-- Add testimonials here -->
+    </section>
+    <footer>
+        <p>&copy; 2025 Creative Catalyst. All rights reserved.</p>
+        <p>Contact us: info@creativecatalyst.com | +91-123-456-7890</p>
+    </footer>
+</body>
+</html>
